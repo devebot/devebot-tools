@@ -1,0 +1,14 @@
+{
+  "name": "devebot-tools",
+  "version": "0.2.0",
+  "description": "A Node.js module that provides tooling around Devebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devebot",
+  "license": "MIT",
+  "dependencies": {
+    "traverse": "^0.6.6"
+  }
+}

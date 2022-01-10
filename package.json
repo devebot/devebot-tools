@@ -1,6 +1,6 @@
 {
   "name": "devebot-tools",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A Node.js module that provides tooling around Devebot",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "devebot",
   "license": "MIT",
   "dependencies": {
-    "colors": "^1.3.0",
-    "traverse": "^0.6.6"
+    "colors": "1.4.0",
+    "traverse": "0.6.6"
   }
 }
